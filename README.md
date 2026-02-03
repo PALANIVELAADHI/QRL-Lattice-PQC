@@ -14,6 +14,7 @@ Quantum Reinforcement Learning (QRL) optimizes lattice-based post-quantum crypto
 - Python 3.9+
 - NumPy, SciPy, Matplotlib
 - Optional: Qiskit or PennyLane for quantum policy simulation
+- -Oqs
 
 ## Usage
 1. Clone the repository:
